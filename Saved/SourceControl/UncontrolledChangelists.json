@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Project_Racing/Main_Menu/Main_Menu.umap",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Project_Racing/Main_Menu/MenuPause.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Project_Racing/Main_Menu/MenuMain.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Project_Racing/Main_Menu/LoadingScreen.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Project_Racing/PowerUpCube.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Vehicles/SportsCar/SportsCar_CtrlRig.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/S6/8GYCGD0LWTMPHJTC34IKNA.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Project_Racing/Main_Menu/MenuMain1.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Project_Racing/Main_Menu/MenuOptions.uasset",
+				"C:/Users/HARDPC/Documents/Unreal Projects/Project_Racing_Game/Content/Project_Racing/Main_Menu.umap"
+			]
+		}
+	]
+}
